@@ -12,12 +12,12 @@ global.botNumber = "" //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-"50487773186",
-"50487773186",
-"50487773186"
+"50432788804",
+"50432788804",
+"50432788804"
 ]
 
-global.suittag = ["50487773186"] 
+global.suittag = ["50432788804"] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -32,10 +32,10 @@ global.yukiJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.botname = "Goku sᥙ᥆ᥙ"
-global.textbot = "Goku, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|isagi"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|isagi𒆜"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|isagi𒆜"
-global.etiqueta = "ⁱᵃᵐ|isagi𒆜"
+global.textbot = "Goku, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|Dionebi"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|Dionebi𒆜"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|Dionebi𒆜"
+global.etiqueta = "ⁱᵃᵐ|Dionebi𒆜"
 global.currency = "¥enes"
 global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1761542055.jpeg"
 global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1761542055.jpeg"
