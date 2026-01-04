@@ -10,7 +10,7 @@ import fs, { readdirSync, statSync, unlinkSync, existsSync, mkdirSync, readFileS
 import yargs from 'yargs';
 import { spawn, execSync } from 'child_process'
 import lodash from 'lodash'
-import { yukiJadiBot } from './plugins/sockets-serbot.js'
+import { DionebiJadiBot } from './plugins/sockets-serbot.js'
 import chalk from 'chalk'
 import syntaxerror from 'syntax-error'
 import pino from 'pino'
@@ -33,12 +33,12 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
 console.log(chalk.magentaBright('\n❀ Iniciando...'))
-say('Yuki Suou', {
+say('Dionebi', {
 font: 'simple',
 align: 'left',
 gradient: ['green', 'white']
 })
-say('Made with love by Destroy', {
+say('Made with love by Dionebi', {
 font: 'console',
 align: 'center',
 colors: ['cyan', 'magenta', 'yellow']
