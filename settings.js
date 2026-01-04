@@ -24,21 +24,21 @@ global.prems = []
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.8.2|Latest"
-global.nameqr = "GokuBot-MD"
+global.nameqr = "Dionebi-sama"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "Goku sᥙ᥆ᥙ"
-global.textbot = "Goku, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|Dionebi"
+global.botname = "Dionebi sama"
+global.textbot = "Dionebi, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|Dionebi"
 global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|Dionebi𒆜"
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|Dionebi𒆜"
 global.etiqueta = "ⁱᵃᵐ|Dionebi𒆜"
 global.currency = "¥enes"
-global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1761542055.jpeg"
-global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1761542055.jpeg"
+global.banner = "https://files.catbox.moe/dbkf25.jpg"
+global.icono = "https://files.catbox.moe/dbkf25.jpg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
